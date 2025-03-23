@@ -1,0 +1,6 @@
+streamlit
+tensorflow
+gdown  # If downloading models from Google Drive
+numpy
+pandas
+Pillow
