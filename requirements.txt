@@ -1,7 +1,8 @@
-streamlit
 tensorflow
-gdown  # If downloading models from Google Drive
+opencv-python
 numpy
 pandas
+matplotlib
+streamlit
 Pillow
-opencv-python
+scikit-learn
